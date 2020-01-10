@@ -8,7 +8,7 @@
     "build": "webpack -p"
   },
   "dependencies": {
-    "particles.js": "https://github.com/vegatheantler/particles.js/tarball/master",
+    "particles.js": "git+https://git@github.com/vegatheantler/particles.js.git",
     "vue": "^2.5.9"
   },
   "devDependencies": {
