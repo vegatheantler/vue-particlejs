@@ -8,8 +8,8 @@
     "build": "webpack -p"
   },
   "dependencies": {
-    "vue": "^2.5.9",
-    "particles.js": "^2.0.0"
+    "particles.js": "git+https://github.com/vegatheantler/particles.js.git",
+    "vue": "^2.5.9"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
