@@ -8,7 +8,7 @@
     "build": "webpack -p"
   },
   "dependencies": {
-    "particles.js": "git+https://github.com/vegatheantler/particles.js.git",
+    "particles.js": "github:vegatheantler/particles.js",
     "vue": "^2.5.9"
   },
   "devDependencies": {
